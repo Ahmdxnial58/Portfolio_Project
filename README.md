@@ -1,5 +1,9 @@
 # Portfolio
 Analytics Portfolio
 
-# H1
-**Project 1 : Excel**
+# **Project 1 : Excel**
+
+This is a project i did during degree, where is just hobby.
+
+* Data was taken from Kaggle
+* 
